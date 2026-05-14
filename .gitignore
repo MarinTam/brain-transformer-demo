@@ -1,0 +1,11 @@
+# データや一時ファイルを除外
+data/
+processed/
+roi_timeseries/
+roi_timeseries_100/
+checkpoints/
+results/
+__pycache__/
+*.npy
+*.csv
+.DS_Store
